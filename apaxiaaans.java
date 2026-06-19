@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.util.regex.Pattern;
-import java.util.regex.Matcher;
 
 public class apaxiaaans {
     public static void main (String[] args) {
